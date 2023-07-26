@@ -1,12 +1,11 @@
+
 # Erste Schritte
-
-
-
 
 
 Zu Beginn, legen wir eine "Hallowelt.txt" Datei an.
 
-Bild
+![Unbenanntes Diagramm](https://github.com/dieupatr/CNote/assets/93820975/37fa67a7-8c31-4e1d-beee-ec5c61994a59)
+
 
 
 In diese schreiben wir den folgenden Inhalt:
