@@ -2,7 +2,7 @@
 # Erste Schritte
 
 
-Zu Beginn, legen wir eine "HalloWelt.txt" Datei an.
+Zu Beginn, legen wir eine <b>"HalloWelt.txt"</b> Datei an.
 
 ![Unbenanntes Diagramm](https://github.com/dieupatr/CNote/assets/93820975/37fa67a7-8c31-4e1d-beee-ec5c61994a59)
 
@@ -11,6 +11,7 @@ Zu Beginn, legen wir eine "HalloWelt.txt" Datei an.
 In diese schreiben wir den folgenden Inhalt:
 
 ```
+
 				Main
 
 programtype:cpu
@@ -24,9 +25,7 @@ out:"hallo"
 
 }
 
-
 ```
-
 
 <br><b>"#Main"</b> definiert ein Kapitel und "out:" gibt einen String auf der Konsole.<br><br><br><br>  
 
@@ -46,13 +45,13 @@ In diesem Kompilieren wir unsere text datei mit dem Befehl.
 ```
 
 
-Das Resultat ist, die Datei "Hallowelt.cpp".
+Das Resultat ist, die Datei <b>"Hallowelt.cpp"</b>.
 
 ![HalloWeltCpp](https://github.com/dieupatr/CNote/assets/93820975/7c83c8bf-f14f-48c7-b270-1099c4824c7e)
 
 
 
-Zum Schluss, braucht die generiert Datei, nur noch in C++ Kompiliert werden.
+Zum Schluss, braucht die generiert Datei, nur noch in <b>C++</b> Kompiliert werden.
 
 ```
 g++    HalloWelt.cpp   -o run
