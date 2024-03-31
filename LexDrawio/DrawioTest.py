@@ -8,7 +8,6 @@ file_path = 'TestRunDia.drawio'
 Dia=ParseDiagramsFromXmlFile(file_path)
 
 
-SortBlocksByLevel(Dia["Test1"],"y")
 
 
 
@@ -18,10 +17,10 @@ Arrows=Dia["Test1"].arrows
 
 for block  in Blocks:
 
-    #block.PrintData()
+    block.PrintData()
 
-    print(block.Geometry)
+    
 
 for arrow in Arrows:
 
-    print(arrow.Geometry)
+    arrow.PrintData()
