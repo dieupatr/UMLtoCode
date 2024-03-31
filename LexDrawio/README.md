@@ -66,12 +66,12 @@ Mit diesem **Modell** können wir nun das ganze Diagramm Analysieren und einzeln
 ## Implementierung
 
 Die Implementierung der Analyse des letzten Abschnittes erfolgt mit der
-Sprache **Python** . Der Quellcode kan in dem Skript **File-Link** eingesehen 
+Sprache **Python** . Der Quellcode kan in dem Skript **[LexDrawio](LexDrawio.py)** eingesehen 
 werden. Betrachten wir erneut das **Diagram** vom Anfang ergibt sich mit dem folgeden Skript eine Menge von **Objekten**. 
 
 
     
-    from LexDrawioNew import *
+    from LexDrawio import *
 
     file_path = 'TestDiagram.drawio'  
 
