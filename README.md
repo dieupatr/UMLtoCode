@@ -10,7 +10,7 @@ Das Format der **UML** stammt aus der **App Drawio** die wir in diesem Projekt b
 Die in Drawio in **Xml-Codierten** UML-Diagrame werden wir im verlauf dieses Projektes in Quellcode umwandeln und daraus ausführbare Programme machen.
 
    
-<img src="LexDrawio/Bilder/UMLtoCode.png" alt="drawing" style="width:650px;"/>
+<img src="./LexDrawio/Bilder/UMLtoCode.png" alt="drawing" style="width:650px;"/>
 
 
 
