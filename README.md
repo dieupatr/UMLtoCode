@@ -14,17 +14,44 @@ Die in Drawio in **Xml-Codierten** UML-Diagrame werden wir im verlauf dieses Pro
 
 
 
-## Inhaltsverzeichniss
+# Inhaltsverzeichniss
 
 
-* [Lexikalische Analyse der **Xml-Codierung** von **Drawio**](LexDrawio)
+1.  [Lexikalische Analyse der **Xml-Codierung** von **Drawio**](LexDrawio)
 
-<br></br><br></br><br></br>
- 
-# Quick Start
 
-Kommt bald!!
+
+<br></br><br></br>
+
+# Aktuelles
+**Hier wird der aktuelle Stand und die neusten Errungenschaften Präsentiert.**
+**************************
+# FolderCreator
+Wir beginnen mit dem Folgenden Diagram. 
+
+![link](LexDrawio/FolderCreator/Bilder/FolderDia.PNG)
+
+Dieses wurde mit **Drawio** erstellt  und unter **FolderDiagramm.drawio** abgespreichert.
+
+
+Hier sind einige **Ordner** und eine **Datei** zu sehen. Die **balue Markierung**  ist das **Stammverzeichniss** in welchem die Odner/Datein später erzeugt werden. 
+
+Der nächste Schritt ist das Öfnnen einer **Konsole**, dort geben wir den 
+folgenden Befehl ein
+
+
+    .\FolderCreator.py FolderDiagramm.drawio
+
+Dieser generiert die Ordner/Datein in dem entsprechenden Verzeichniss. 
+<br></br><br></br>
+Der **Output** ist :
+
+![link](LexDrawio/FolderCreator/Bilder/Folder.PNG)
+
+<br></br>
+Mehr information unter [**FolderCreator**](LexDrawio/FolderCreator)
 
 
 ## Literatur
 
+* [1] **UML 2.5 Das Umfassende Handbuch, Rheinwerk Computer, Kecher Salvanos; Hoffman Elbern, 6. Auflage**
