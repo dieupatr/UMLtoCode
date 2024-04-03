@@ -1,0 +1,69 @@
+<mxfile host="Electron" modified="2024-03-31T07:24:05.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.1 Chrome/112.0.5615.204 Electron/24.6.1 Safari/537.36" etag="BM2WKH7lE4v7aLjTlrYc" version="21.6.1" type="device" pages="2">
+  <diagram name="D:/PatrickDaten/MPI_Project" id="HxZEipsc1KVCHKJfXfnL">
+    <mxGraphModel dx="1418" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t3dM9cpDcrp2R5S7ML-B-8" value="Folder0" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="30" y="180" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="t3dM9cpDcrp2R5S7ML-B-9" value="" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;fontSize=16;" parent="t3dM9cpDcrp2R5S7ML-B-8" vertex="1">
+          <mxGeometry width="140" height="77" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t3dM9cpDcrp2R5S7ML-B-10" value="Folder2" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="30" y="340" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="t3dM9cpDcrp2R5S7ML-B-11" value="" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;fontSize=16;" parent="t3dM9cpDcrp2R5S7ML-B-10" vertex="1">
+          <mxGeometry width="140" height="77" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t3dM9cpDcrp2R5S7ML-B-12" value="Folder1" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="200" y="180" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="t3dM9cpDcrp2R5S7ML-B-13" value="" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;fontSize=16;" parent="t3dM9cpDcrp2R5S7ML-B-12" vertex="1">
+          <mxGeometry width="140" height="77" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t3dM9cpDcrp2R5S7ML-B-14" value="Folder3" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="230" y="340" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="t3dM9cpDcrp2R5S7ML-B-15" value="" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;fontSize=16;" parent="t3dM9cpDcrp2R5S7ML-B-14" vertex="1">
+          <mxGeometry width="140" height="77" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SGdevcRn7y6qt4phsYlc-9" value="ReadMe.md" style="shape=card;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="550" width="110" height="115" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rkvUc419kgG_1Sg3t08t" name="D:/PatrickDaten/MPI_Project/Folder0">
+    <mxGraphModel dx="1818" dy="828" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="faHowx3N-j6nAV565AFC-1" value="Pack0" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-251" y="40" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="faHowx3N-j6nAV565AFC-2" value="" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;fontSize=16;" parent="faHowx3N-j6nAV565AFC-1" vertex="1">
+          <mxGeometry width="150" height="70" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="faHowx3N-j6nAV565AFC-3" value="Pack1" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-229" y="204" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="faHowx3N-j6nAV565AFC-4" value="" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;fontSize=16;" parent="faHowx3N-j6nAV565AFC-3" vertex="1">
+          <mxGeometry width="150" height="70" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
