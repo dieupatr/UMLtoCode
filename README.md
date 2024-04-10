@@ -18,6 +18,7 @@ Die in Drawio in **Xml-Codierten** UML-Diagrame werden wir im verlauf dieses Pro
 
 
 1.  [Lexikalische Analyse der **Xml-Codierung** von **Drawio**](LexDrawio)
+2.  [Übersetzen von Klassen-Diagrammen](ClassCreator)
 
 
 
@@ -26,30 +27,32 @@ Die in Drawio in **Xml-Codierten** UML-Diagrame werden wir im verlauf dieses Pro
 # Aktuelles
 **Hier wird der aktuelle Stand und die neusten Errungenschaften Präsentiert.**
 **************************
-# FolderCreator
-Wir beginnen mit dem Folgenden Diagram. 
+# ClassCreator Quickstart
 
-![link](LexDrawio/FolderCreator/Bilder/FolderDia.PNG)
-
-Dieses wurde mit **Drawio** erstellt  und unter **FolderDiagramm.drawio** abgespreichert.
+Zu beginn legen wir das folgende Klassen Diagramm in **Drawio** an.
 
 
-Hier sind einige **Ordner** und eine **Datei** zu sehen. Die **balue Markierung**  ist das **Stammverzeichniss** in welchem die Odner/Datein später erzeugt werden. 
-
-Der nächste Schritt ist das Öfnnen einer **Konsole**, dort geben wir den 
-folgenden Befehl ein
+![Bild](ClassCreator/Doc/Bilder/QuickClassDiagramm.png)
 
 
-    .\FolderCreator.py FolderDiagramm.drawio
+Wichtig ist, das nur die folgenden **Formen** verwendet werden.
+* UML/Class
+* Pfeil mit breiten weissen Kopf
 
-Dieser generiert die Ordner/Datein in dem entsprechenden Verzeichniss. 
-<br></br><br></br>
-Der **Output** ist :
 
-![link](LexDrawio/FolderCreator/Bilder/Folder.PNG)
+Der folgende Konsolen aufruf generiert dann den entsprechenden **Quellcode**
 
-<br></br>
-Mehr information unter [**FolderCreator**](LexDrawio/FolderCreator)
+
+
+	ClassCreator.py ClassDiagramm.drawio Quick.cs
+
+
+**Output:**
+
+[**Generierter Code in Quick.cs**](ClassCreator/Doc/Quick.cs)
+
+
+### Näheres in dem Ordner [ClassCreator](ClassCreator)
 
 
 ## Literatur
