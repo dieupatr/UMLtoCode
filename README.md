@@ -49,6 +49,27 @@ Der folgende Konsolen aufruf generiert dann den entsprechenden **Quellcode**
 
 **Output:**
 
+	namespace Quick{
+
+	public abstract class Obst_UML   {
+
+	public  int Kerne{ get; set; }
+
+   
+	}
+              
+	public abstract class Apfel_UML :Obst_UML  {
+
+	public  float Farbe{ get; set; }
+
+	public  abstract   void  Ernte ();
+      
+		}
+              
+	}
+
+
+
 [**Generierter Code in Quick.cs**](ClassCreator/Doc/Quick.cs)
 
 
