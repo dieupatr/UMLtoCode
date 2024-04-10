@@ -32,7 +32,7 @@ Die in Drawio in **Xml-Codierten** UML-Diagrame werden wir im verlauf dieses Pro
 Zu beginn legen wir das folgende Klassen Diagramm in **Drawio** an.
 
 
-![Bild](ClassCreator/Doc/Bilder/QuickClassDiagramm.png)
+![Bild](ClassCreator/Doc/Bilder/QuickClassDiagramm.PNG)
 
 
 Wichtig ist, das nur die folgenden **Formen** verwendet werden.

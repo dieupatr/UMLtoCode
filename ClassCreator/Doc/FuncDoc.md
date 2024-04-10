@@ -7,14 +7,14 @@ in diesem Teil Dokumentieren wir die einzelnen Funktion des **ClassCreators** n√
 Es wird die folgende form in Drawio verwendet **UML\Class**.
 
 
-![Bild](Bilder/FuncDocFormClass.png)
+![Bild](Bilder/FuncDocFormClass.PNG)
 
 
 ### Syntax Atribute und Methoden
 Die **Atribute** und die **Methoden** haben die folgende Syntax
 
 
-![Bild](Bilder/FuncDocMethodAndAtributes.png)
+![Bild](Bilder/FuncDocMethodAndAtributes.PNG)
 
 
 
@@ -23,7 +23,7 @@ Die **Atribute** und die **Methoden** haben die folgende Syntax
 In dem folgendem Diagramm wird die Veerbung bei Klassen dargestellt.
 
 
-![Bild](Bilder/QuickClassDiagramm.png)
+![Bild](Bilder/QuickClassDiagramm.PNG)
 
 
 

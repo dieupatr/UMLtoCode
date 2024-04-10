@@ -8,7 +8,7 @@ In dieser Dokumentation werden aus **Drawio** Klassen-Diagrammen **Code** generi
 Zu beginn legen wir das folgende Klassen Diagramm in **Drawio** an.
 
 
-![Bild](Doc/Bilder/QuickClassDiagramm.png)
+![Bild](Doc/Bilder/QuickClassDiagramm.PNG)
 
 
 Wichtig ist, das nur die folgenden **Formen** verwendet werden.
